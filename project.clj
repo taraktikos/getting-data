@@ -5,4 +5,5 @@
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[org.clojure/clojure "1.7.0"]
   				 [incanter "1.5.6"]
-  				 [enlive "1.1.6"]])
+  				 [enlive "1.1.6"]]
+  :main getting-data.core)
